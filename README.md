@@ -35,4 +35,25 @@ Make sure you have a code editor like [VSCode](https://code.visualstudio.com/) a
    ```bash
    git clone https://github.com/yourusername/opulent-interiors.git
 
+2. Open the project folder:
+   ```bash
+   cd opulent-interiors
+  Open the index.html file in your preferred browser or use Live Server in VSCode for better development experience.
+### Usage
+You can modify the HTML, CSS, and JavaScript files as needed to suit your development needs or customization preferences.
+
+### Contributing
+Feel free to fork this repository and create a pull request if you'd like to contribute to the project.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+Opulent Interiors: For the opportunity to work on such an exciting project.
+Bootstrap: For providing a robust, responsive framework.
+vbnet
+### Copy code
+
+Make sure to replace `yourusername` with your actual GitHub username if you're hosting it on 
+
  
